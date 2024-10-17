@@ -1,0 +1,239 @@
+.body {
+  background: #086;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.caja {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 2px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.boton {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    font-weight: 400!important;
+    margin-left: 179px;
+    margin-top: 24px;
+    background: #00bb8c;
+    cursor: default;
+    animation: 0 fromZebratoZebraBackground;
+    text-align: center;
+    padding-top: 5px;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    border: 0;
+    touch-action: manipulation;
+    user-select: none;
+    color: white;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+::placeholder {
+    font-family: sans-serif;
+}
+
+.input {
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    box-sizing: border-box;
+    margin: 0;
+     
+    line-height: normal;
+    -webkit-user-select: text!important;
+     
+    font-weight: 400!important;
+    height: 44px;
+    width: 100%;
+    padding: 0 14px;
+    font-size: 16px;
+    color: #333;
+    border: 1px solid #bbb;
+    background: #fff;
+    border-left: 3px solid #086;
+    padding-left: 40px;
+    padding-right: 44px;
+    outline: none;
+}
+
+.img {
+    width: 200px;
+}
+
+.laf {
+    width: 200px;
+    background-color: #00583c;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: -30px;
+}
+
+.nav {
+    width: 100%;
+    background-color: #00583c;
+    height: 40px;
+}
+
+.abj {
+    width: 303px;
+}
+
+.boton2 {
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    box-sizing: border-box;
+    margin: 0;
+    
+    color: inherit;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    font-family: sans-serif;
+    font-weight: 400!important;
+    margin-left: -298px;
+    margin-top: 24px;
+    position: absolute;
+    cursor: pointer;
+    animation: .3s fromSharktobettafighterBorder;
+    text-align: center;
+    padding-top: 5px;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    background: #f5f5f5;
+    border: 0;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.ltr3 {
+    font-size: 15px;
+    color: #7b7979;
+}
+
+.lol {
+    font-weight: lighter;
+    font-size: small;
+}
+
+.caj {
+  margin-left: -49px;
+    width: 400px;
+    height: 200px;
+box-shadow: 0.1px 0.5px 0.1px 1px;
+  position: absolute; background-color: white;   
+}
+
+.ff {
+    height: 36px;
+    margin: 0; background-color: #00583c;
+}
+.ff2 {
+    height: 36px;
+    margin: 0; background-color: #f8f8f8;
+    margin-top: 12px;
+}
+
+.lop {
+    color: white;
+    font-size: 12px;
+    /* margin-top: -57px; */
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -188px;
+}
+
+.pool {
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    white-space: normal;
+    box-sizing: border-box;
+    margin: 0;
+    
+    color: inherit;
+    line-height: normal;
+    -webkit-user-select: text!important;
+  
+    font-weight: 400!important;
+    touch-action: manipulation;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      width: 230px;
+}
+
+.botonf {
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    box-sizing: border-box;
+    margin: 0;
+    
+    color: white;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    font-size: 15px;
+    font-weight: 400!important;
+    width: 114px;
+    height: 27px;
+    text-align: center;
+    display: block;
+    margin-left: 0;
+    background: #00bb8c;
+    cursor: default;
+    animation: 0 fromZebratoZebraBackground;
+    border: 0;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    margin-top: 47px;
+    position: absolute;
+    margin-left: 246px;
+}
+
+
+.botonf2 {
+    -webkit-text-size-adjust: 100%;
+    visibility: visible;
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+    color: #2d8d7b;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    font-size: 15px;
+    font-weight: 400!important;
+    width: 114px;
+    height: 27px;
+    text-align: center;
+    display: block;
+    margin-left: 0;
+    background: #dee9e6;
+    cursor: default;
+    animation: 0 fromZebratoZebraBackground;
+    border: 0;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    margin-top: 47px;
+    position: absolute;
+    margin-left: 123px;
+}
